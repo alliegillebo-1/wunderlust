@@ -1069,7 +1069,7 @@ body {
     }
     
     #intro p {
-      font-size: .9em;
+      font-size: 1em;
       font-family: "montserrat";
       line-height: 2;
       grid-column: 1 / 2;
